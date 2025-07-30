@@ -1,0 +1,42 @@
+2025-07-30 08:47:27,837 - INFO -  Start processing PCAP file ...
+2025-07-30 08:47:27,993 - INFO - Uploaded62 packet from file : C:\Users\M-ALANEED\Desktop\cybersecurity\nashwan\copy\nb6-http.pcap 
+2025-07-30 08:47:27,993 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:47:27,993 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:47:27,993 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:47:28,009 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:47:28,009 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:47:28,009 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:47:28,009 - INFO - it has been extracted23 Unique stream.
+2025-07-30 08:47:28,024 - INFO - read raw flows: 23 keys
+2025-07-30 08:47:28,024 - INFO - 23streaming objects were built .
+2025-07-30 08:47:28,024 - INFO - Built 23 flow objects
+2025-07-30 08:47:28,221 - INFO - Extracted features from 23 flows
+2025-07-30 08:47:28,229 - INFO - Features writtin to C:\Users\M-ALANEED\Desktop\cybersecurity\nashwan\cicflowp\output_files\
+2025-07-30 08:50:51,734 - INFO -  Start processing PCAP file ...
+2025-07-30 08:50:51,843 - INFO - Uploaded62 packet from file : C:\Users\M-ALANEED\Desktop\cybersecurity\nashwan\copy\nb6-http.pcap 
+2025-07-30 08:50:51,859 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:50:51,859 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:50:51,859 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:50:51,859 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:50:51,859 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:50:51,859 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:50:51,859 - INFO - it has been extracted23 Unique stream.
+2025-07-30 08:50:51,859 - INFO - read raw flows: 23 keys
+2025-07-30 08:50:51,874 - INFO - 23streaming objects were built .
+2025-07-30 08:50:51,874 - INFO - Built 23 flow objects
+2025-07-30 08:50:51,984 - INFO - Extracted features from 23 flows
+2025-07-30 08:50:51,999 - INFO - Features writtin to C:\Users\M-ALANEED\Desktop\cybersecurity\nashwan\cicflowp\output_files\
+2025-07-30 08:52:49,991 - INFO -  Start processing PCAP file ...
+2025-07-30 08:52:50,272 - INFO - Uploaded62 packet from file : C:\Users\M-ALANEED\Desktop\cybersecurity\nashwan\copy\nb6-http.pcap 
+2025-07-30 08:52:50,272 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:52:50,272 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:52:50,288 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:52:50,288 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:52:50,288 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:52:50,288 - INFO - only TCP , UDP protocols are supported
+2025-07-30 08:52:50,303 - INFO - it has been extracted23 Unique stream.
+2025-07-30 08:52:50,303 - INFO - read raw flows: 23 keys
+2025-07-30 08:52:50,319 - INFO - 23streaming objects were built .
+2025-07-30 08:52:50,319 - INFO - Built 23 flow objects
+2025-07-30 08:52:51,565 - INFO - Extracted features from 23 flows
+2025-07-30 08:52:51,580 - INFO - Features writtin to C:\Users\M-ALANEED\Desktop\cybersecurity\nashwan\cicflowp\output_files\
